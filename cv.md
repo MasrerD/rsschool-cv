@@ -1,19 +1,19 @@
-# Дмитрий Захаров  
-### тел. +79279074864  
-### e-mail:zssassass@gmail.ru  
-Тянусь к знаниям для совершенствования навыков в областях инженерии и проектирования.  
-### Преоритеты:   
-Оптимизация рабочих процессов при помощи программирования  
-создание ботов   
-web-программ   
-приклодных программ  
-Изучаю JavaScript, phyton на начальном уровне.  
-### Примеры кода:  
+# Dmitrii Zakharov  
+### phone: +79279074864  
+### e-mail: zssassass@gmail.ru  
+I strive for knowledge to improve my skills in the field of engineering and design 
+### Priorities:   
+Streamline workflows through programming 
+Creating bots   
+web-programs   
+app programs  
+I study JavaScript, phyton basic level  
+### Code examples:    
 function testErrorFunc(a, func) {         
 try {
-   func(a);    //  попытка вызова функции
+   func(a);    //  trying to call a function
 } catch(x) {
-    return(x.name);                 // вывод сообщения об ошибке
+    return(x.name);                 // error message output
 }   
     return x;
 }  
@@ -23,23 +23,23 @@ var myPattern = new RegExp(sub_s,"g");
 let x = s.match(myPattern);
 return x.join(',');  
 }  
-### Опыт работы:  
-Использование языка lisp для автоматизации функций ACAD  
-Курсы stepic:  
-JavaScript для начинающих  
-JavaScript понимаем тонкости языка  
-Программирование на Python  
+### Work experience:   
+Using lisp to automate ACAD functions    
+Stepic courses:  
+JavaScript for beginners  
+JavaScript understand the intricacies of the language  
+Python Programming  
 
-### Образование:  
-Магистратура:   
-"Самарский национальный исследовательский университет имени академика С.П. Королева"   
-Направление: Конструирование и технология электронных средств  
-Высшее:   
-"Самарский национальный исследовательский университет имени академика С.П. Королева"   
-Специальность: Проектирование и технология радиоэлектронных средств  
-Среднепрофессиональное:  
-"Самарский техникум промышленных технологий"  
-Специальность: Техническая эксплуатация и обслуживание электрического и электромеханического оборудования  
+### Education:   
+Master's degree:  
+Samara National Research University named after academician S. P. Korolev  
+Direction: Design and technology of electronic means  
+Higher:  
+Samara National Research University named after academician S. P. Korolev  
+Specialty: Design and technology of radio electronic means  
+Secondary professional:  
+"Samara College of Industrial Technologies"  
+Specialty: Technical operation and maintenance of electrical and electromechanical equipment  
 
-### Уровень английского:  
+### English level:   
 A2
